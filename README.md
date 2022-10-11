@@ -51,4 +51,3 @@ The testing code will check for print output that is formatted like one of the l
 "Your BMI is 33, you are obese."
 "Your BMI is 40, you are clinically obese."
 ```
-
